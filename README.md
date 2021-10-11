@@ -2,11 +2,11 @@
 [Click Here](https://thememoriesapp.herokuapp.com/) to try out the live Web Application
 
 ## Tech-Stack
-**Frontend:** React Js
-**Backend:** Node Js, Express Js
-**Database:** Mongo DB (Atlas)
-**State Management Solution:** Redux
-**Cloud Service:** Heroku
+- **Frontend:** React Js
+- **Backend:** Node Js, Express Js
+- **Database:** Mongo DB (Atlas)
+- **State Management Solution:** Redux
+- **Cloud Service:** Heroku
 
 ## Introduction
 A simple social media web application just as instagram which allows you to store you memories and explore the memories posted by other users.
